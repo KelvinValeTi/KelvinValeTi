@@ -1,4 +1,4 @@
 Olá!
 Me chamo Kelvin Vale!
 
-- HTML, CSS, JAVASCRIPT, PHP
+- HTML, CSS, JavaScript, PHP, React Native
